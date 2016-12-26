@@ -1,2 +1,0 @@
-# titanic-survival
-Titanic Kaggle
